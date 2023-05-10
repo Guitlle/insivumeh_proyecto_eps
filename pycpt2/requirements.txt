@@ -1,0 +1,9 @@
+https://github.com/iri-pycpt/cpt-io/archive/refs/tags/v1.0.2.tar.gz
+# cptio
+psutil
+requests
+xarray
+
+
+#cpt extras
+statsmodels

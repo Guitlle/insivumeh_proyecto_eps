@@ -1,0 +1,9 @@
+xarray
+scipy
+cartopy
+netcdf4
+numpy
+scikit-learn
+pycairo
+PyGObject
+ipykernel
